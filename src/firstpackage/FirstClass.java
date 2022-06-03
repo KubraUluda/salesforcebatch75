@@ -8,4 +8,5 @@ public class FirstClass {
     //Second update
     //Third commit
     //We just created new remote repository
+    //Git is easy to learn
 }
